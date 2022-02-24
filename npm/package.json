@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Belajar NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArisandiYudiarta/NodeJs.git"
+  },
+  "author": "Arisandi Yudiarta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArisandiYudiarta/NodeJs/issues"
+  },
+  "homepage": "https://github.com/ArisandiYudiarta/NodeJs#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
